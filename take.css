@@ -1,0 +1,23 @@
+body {
+    background-color: white;
+  }
+  
+  .text {
+    color: black;
+  }
+  .container {
+    width: 60%;
+    margin: 0 auto;
+    border: 1px solid red;
+    padding: 40px;
+    border-radius: 20px;
+    margin: 60px;
+  }
+  span {
+    font-weight: bold;
+  }
+  .container2 {
+    width: 50%;
+    margin: 0 auto;
+  }
+  
